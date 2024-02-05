@@ -1,4 +1,4 @@
 # jsrepo
 This is my javascript repo 
 <br>
-Author - Rahul Kharat
+Author - Rahul Kharat (QA)
